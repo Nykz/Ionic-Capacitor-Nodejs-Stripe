@@ -1,0 +1,7 @@
+{
+  "name": "stripe-payment-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
